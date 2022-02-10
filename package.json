@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "pure-react-carousel": "^1.22.0",
     "react": "^16.9.0",
     "react-awesome-slider": "^1.0.1",
